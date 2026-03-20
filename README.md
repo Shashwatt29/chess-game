@@ -1,2 +1,3 @@
-# chess-game
-This is an interactive chess game built using Pygame that allows players to play chess on a virtual 8x8 board.
+Multiplayer Chess Game (Pygame) Description This is an interactive chess game built using Pygame that allows players to play chess on a virtual 8x8 board. The game supports:
+
+Piece movement with proper validation based on chess rules. Turn-based gameplay with alternating moves between players. Highlighting of valid moves and selected pieces. An intuitive graphical user interface (GUI) for easy interaction. Features Valid Move Calculation: Automatically highlights valid moves for each piece based on chess rules. Turn-based Gameplay: Alternates between two players (white and black) with checks for valid moves. Piece Highlighting: Allows users to select a piece and see its valid moves visually. Basic Chess Logic: The game follows standard chess rules for piece movement, including pawns' initial two-square move and special moves like castling (not yet implemented, can be added). Installation To run the project locally, follow these steps:
